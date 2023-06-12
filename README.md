@@ -1,2 +1,3 @@
 # Clevered
 It is a desktop assistant built for clevered internship with Dr. Ken Kahn
+This is a voice assistant called Jarvis. He can do many things. First of all he can automatically send a message to any whatsapp number and at any time given by you. With the frontend code, he can do various functions simply with the click of a button. By pressing the top, left, right ajnd bottom buttons, he will greet you in different languages. Type any title in the input box and he will automatically open youtube and play that video for you. Click the movie button and say the movie title and he will say every single detail of that movie.
